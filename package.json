@@ -1,0 +1,21 @@
+{
+  "name": "input-trim-space",
+  "version": "0.0.2",
+  "description": "A simple directive to trim white spaces from all input fields and text area",
+  "author": "Franklin Pious",
+  "keywords": [
+    "angular",
+    "javascript",
+    "directive",
+    "typescript",
+    "trim-inputs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franklinpious/input-trim-space-directive"
+  },
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  }
+}
